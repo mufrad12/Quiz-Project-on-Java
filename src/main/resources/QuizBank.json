@@ -1,0 +1,42 @@
+[
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Integration Testing",
+    "answer": "a",
+    "Question": "Which testing is done by developer?",
+    "Option c": "Sanity Testing",
+    "Option d": "Regression Testing"
+  },
+  {
+    "Option a": "evaluations to be performed",
+    "Option b": "amount of technical work",
+    "answer": "b",
+    "Question": "Which of the following is not a SQA plan for a project?",
+    "Option c": "audits and reviews to be performed",
+    "Option d": "documents to be produced by the SQA group"
+  },
+  {
+    "Option a": "quality planning",
+    "Option b": "formal technical reviews",
+    "answer": "d",
+    "Question": "What is not included in prevention costs?",
+    "Option c": "test equipment",
+    "Option d": "equipment calibration and maintenance"
+  },
+  {
+    "Option a": "inter-process inspection",
+    "Option b": "maintenance",
+    "answer": "c",
+    "Question": "Which of the following is not an appraisal cost in SQA?",
+    "Option c": "quality planning",
+    "Option d": "testing"
+  },
+  {
+    "Option a": "sqa",
+    "Option b": "sqm",
+    "answer": "a",
+    "Question": "Quality Management in software engineering is also known as",
+    "Option c": "sqi",
+    "Option d": "sqa and sqm"
+  }
+]
